@@ -4,10 +4,16 @@
 .header .highlight, .planes .highlight{
     background-color: #4CAF50;
     color: #fff;
+    padding: 5px;
     border-radius: 20px;
     width: auto;
     max-width: 600px;
     text-align: center;
+}
+
+.header .highlight a, .planes .highlight a{
+    text-decoration: none;
+    color: #fff;
 }
 .header .img-holder{
     width: 950px;
@@ -45,4 +51,12 @@
 
 .responsive p{
     font-size: 1.2em;
+}
+
+
+@media (max-width:991px){
+    .header .img-holder{
+        width: auto;
+        margin: 20px;
+    }
 }

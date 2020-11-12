@@ -14,7 +14,7 @@ URI     : https://colorlib.com
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Mobland - Mobile App Landing Page Template">
+    <meta name="description" content="Realizá las tareas de tu negocio de una manera simple y rápida">
     <meta name="keywords" content="HTML5, bootstrap, mobile, app, landing, ios, android, responsive">
     <link rel="icon" type="image/x-icon" href="./images/icono.ico">
     <!-- Font -->
@@ -41,7 +41,7 @@ URI     : https://colorlib.com
             <div class="row">
                 <div class="col-md-12">
                     <nav class="navbar navbar-dark navbar-expand-lg">
-                        <a class="navbar-brand" href="index.html">
+                        <a class="navbar-brand" href="#">
                             <img src="images/logotipo-50x50.png" class="img-fluid" alt="logo"></a> 
                             <span style="
                                 font-size: 2.2em;
@@ -76,7 +76,9 @@ URI     : https://colorlib.com
                 Realizá las tareas de tu negocio de una manera <span class="underline">simple y rápida</span> ✨
             </p>
             <p class="tagline highlight mt-5 mb-3">
-                📣 Probalo <strong>totalmente gratis</strong> hasta fin del 2020!
+                <a href="#comenzar">
+                    📣 Probalo <strong>totalmente gratis</strong> hasta fin del 2020!
+                </a>
             </p>
         </div>
         <div class="img-holder mt-3"><img src="images/screen.png" alt="phone" class="img-fluid"></div>
@@ -164,7 +166,7 @@ URI     : https://colorlib.com
                         <h2>Organizate Mejor</h2>
                         <p class="mb-4">
                             El sistema está diseñado con una interfaz <strong>simple</strong>, moderna y amigable 
-                            para realizar ventas de una manera <strong>rápida</strong> y provee
+                            para realizar ventas de una manera <strong>rápida</strong> y genera
                             estadísticas para <strong>mejorar</strong> la administración del negocio.
                         </p>
                         <a href="#comenzar" class="btn btn-primary">Comenzar</a>
@@ -183,7 +185,7 @@ URI     : https://colorlib.com
                 <!-- <small>FEATURES</small> -->
                 <!-- <h3>Do more with our app</h3> -->
 
-                <small>TAMBIÉN</small>
+                <small>ADEMÁS</small>
                 <h3>Puedes gestionar</h3>
             </div>
     
@@ -362,7 +364,7 @@ URI     : https://colorlib.com
                         <div class="list-group-item"><del>Gestión de proveedores</del></div>
                     </ul>
                     <div class="card-body">
-                        <a href="#comenzar" class="btn btn-primary btn-lg btn-block">Elegir este Plan</a>
+                        <a href="#comenzar" class="btn btn-primary btn-lg btn-block">Quiero este Plan</a>
                     </div>
                 </div>
                 <div class="card pricing popular">
@@ -377,14 +379,16 @@ URI     : https://colorlib.com
                         <div class="list-group-item">Gestión de proveedores</div>
                     </ul>
                     <div class="card-body">
-                        <a href="#comenzar" class="btn btn-primary btn-lg btn-block">Elegir este Plan</a>
+                        <a href="#comenzar" class="btn btn-primary btn-lg btn-block">Quiero este Plan</a>
                     </div>
                 </div>
                 <!-- <p>📣 Probalo una semana totalmente gratis y luego elegí el plan que mejor se ajuste a tu negocio!</p> -->
             </div>
             <!-- // end .pricing -->
             <p class="tagline highlight mt-5 mb-3">
-                📣 Probalo <strong>totalmente gratis</strong> hasta fin del 2020!
+                <a href="#comenzar">
+                    📣 Probalo <strong>totalmente gratis</strong> hasta fin del 2020!
+                </a>
             </p>
 
         </div>
@@ -398,7 +402,7 @@ URI     : https://colorlib.com
 
                 <div class="box-icon"><span class="ti-desktop gradient-fill ti-3x"></span></div>
                 <h2>¡Comenzá a usarlo hoy!</h2>
-                <p class="tagline">Recordá que lo puedes usar gratis hasta el año que viene, es tu oportundad de comenzar a organizar tu negocio. </p>
+                <p class="tagline">Recordá que lo puedes usar gratis hasta fin del año, es tu oportundad de comenzar a organizar tu negocio.</p>
                 <div class="my-4">
 
                     <!-- <a href="#" class="btn btn-light"><img src="images/appleicon.png" alt="icon"> App Store</a> -->
