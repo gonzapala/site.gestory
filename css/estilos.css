@@ -1,0 +1,48 @@
+.underline{
+     text-decoration: underline;
+}
+.header .highlight, .planes .highlight{
+    background-color: #4CAF50;
+    color: #fff;
+    border-radius: 20px;
+    width: auto;
+    max-width: 600px;
+    text-align: center;
+}
+.header .img-holder{
+    width: 950px;
+    margin: 0 auto;
+}
+.header .img-holder img{
+    border-radius: 20px;
+}
+
+.features ul.card-text{
+    list-style-type: none;
+    padding-left: 0;
+}
+.features li .ti-check{}
+
+
+.organizate_mejor p{
+    font-size: 1.2em;
+}
+
+.beneficios ul{
+     list-style-type: none;
+    padding-left: 0;
+}
+.beneficios ul li {
+    margin-top: 15px;
+}
+.beneficios ul li span{
+    vertical-align: bottom;
+}
+.beneficios ul li span.text{
+    font-size: 1.2em;
+    color: #616161;
+}
+
+.responsive p{
+    font-size: 1.2em;
+}
